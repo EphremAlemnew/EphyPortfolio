@@ -7,7 +7,7 @@ function SocialLinks() {
   const links = [
     {
       id: 1,
-      child: (
+      child: ( 
         <>
           LinkedIn <FaLinkedin size={30} />
         </>
@@ -23,7 +23,7 @@ function SocialLinks() {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/theyashpatel",
+      href: "https://github.com/EphremAlemnew",
     },
     {
       id: 3,
@@ -32,7 +32,7 @@ function SocialLinks() {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:foo@gmail.com",
+      href: "mailto:ephremalemnew@gmail.com",
     },
     {
       id: 4,
