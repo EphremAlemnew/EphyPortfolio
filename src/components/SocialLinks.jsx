@@ -12,7 +12,7 @@ function SocialLinks() {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/ephrem-alemnew-8aa173259/",
       style: "rounded-tr-md",
     },
     
@@ -41,7 +41,7 @@ function SocialLinks() {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "hello/public/Group 4 AI assignment.pdf",
+      href: "/workspaces/EphyPortfolio/public/Ephrem_CV.pdf",
       style: "rounded-br-md",
       download: true,
     },

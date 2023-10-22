@@ -14,8 +14,7 @@ function About() {
         </div>
 
         <p className="text-xl mt-20">
-          My name is Ephrem Alemnew I am Undergraduate student 
-         in University of Gondar that is located in Ethiopia. 
+          My name is Ephrem Alemnew I am graduated from University of Gondar that is located in Ethiopia. 
          i am interested more on Web and mobile applications development using react and react-native.
          i have some mini projects on my github account. 
          so you can see it by using the link that is placed on this portfolio.
