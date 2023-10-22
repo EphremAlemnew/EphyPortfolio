@@ -41,7 +41,7 @@ function SocialLinks() {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/workspaces/EphyPortfolio/public/Ephrem_CV.pdf",
+      href: "EphyPortfolio/public/Ephrem_CV.pdf",
       style: "rounded-br-md",
       download: true,
     },
